@@ -29,11 +29,11 @@ const projects = [
     links: [
       {
         label: "GitHub",
-        href: "https://github.com/skyran1278/stretchly-raycast",
+        href: "https://github.com/raycast/extensions/tree/main/extensions/stretchly",
       },
       {
         label: "Raycast Store",
-        href: "https://www.raycast.com/skyran/stretchly",
+        href: "https://www.raycast.com/u-ran/stretchly",
       },
     ],
   },
