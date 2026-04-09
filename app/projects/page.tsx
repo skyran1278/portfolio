@@ -20,6 +20,24 @@ const projects = [
     ],
   },
   {
+    name: "ran-commit",
+    tagline: "AI-powered conventional commit message generator",
+    description:
+      "A VS Code extension that generates git commit messages using AI (GitHub Copilot, Claude CLI, Perplexity). Supports Conventional Commits format, commitlint integration, and learns from recent commit history for style consistency.",
+    tags: ["TypeScript", "VS Code Extension", "AI", "Open Source"],
+    badge: null,
+    links: [
+      {
+        label: "GitHub",
+        href: "https://github.com/skyran1278/ran-commit",
+      },
+      {
+        label: "VS Code Marketplace",
+        href: "https://marketplace.visualstudio.com/items?itemName=skyran.ran-commit",
+      },
+    ],
+  },
+  {
     name: "stretchly-raycast",
     tagline: "Raycast extension for Pomodoro-style break reminders",
     description:
