@@ -13,7 +13,7 @@ export default function Home() {
             You-Ran Nai
           </h1>
           <p className="text-xl leading-8 text-zinc-600 dark:text-zinc-400 max-w-xl">
-            Product-minded engineer with 9+ years of experience building web
+            Product-minded engineer with 6+ years of experience building web
             platforms, C++ systems, and developer tools. Open-source author
             with 1.2M+ VSCode extension installs.
           </p>
