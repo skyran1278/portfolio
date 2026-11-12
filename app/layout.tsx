@@ -13,10 +13,25 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const description =
+  "Senior Software Engineer with 6+ years of experience across web platforms, cloud infrastructure, and performance-critical C++ systems.";
+
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.u-ran.com"),
   title: "You-Ran Nai · Portfolio",
-  description:
-    "Senior Software Engineer with 9+ years of experience across web platforms, cloud infrastructure, and performance-critical C++ systems.",
+  description,
+  openGraph: {
+    title: "You-Ran Nai · Portfolio",
+    description,
+    url: "/",
+    siteName: "You-Ran Nai",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "You-Ran Nai · Portfolio",
+    description,
+  },
 };
 
 export default function RootLayout({

@@ -3,11 +3,11 @@ import Link from "next/link";
 const projects = [
   {
     name: "js-jsx-snippets",
-    tagline: "VSCode extension adopted by 1.2M+ developers",
+    tagline: "VSCode extension with 1.4M+ installs",
     description:
       "A comprehensive collection of JavaScript and JSX snippets for VS Code that accelerates React development. Became one of the most popular React snippet extensions in the marketplace.",
     tags: ["TypeScript", "VS Code Extension", "React", "Open Source"],
-    badge: "1.2M+ installs",
+    badge: "1.4M+ installs",
     links: [
       {
         label: "GitHub",
