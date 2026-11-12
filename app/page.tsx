@@ -15,7 +15,7 @@ export default function Home() {
           <p className="text-xl leading-8 text-zinc-600 dark:text-zinc-400 max-w-xl">
             Product-minded engineer with 6+ years of experience building web
             platforms, C++ systems, and developer tools. Open-source author
-            with 1.2M+ VSCode extension installs.
+            with 1.4M+ VSCode extension installs.
           </p>
         </div>
 
